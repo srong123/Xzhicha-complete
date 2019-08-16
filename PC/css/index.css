@@ -1256,7 +1256,7 @@ height:39px;*/
 	color: #BEBEBE;
 }
 .search .fl input[type='submit'] {
-	width: 188px;
+	width: 223px;
 	height: 100%;
 	font-size: 22px;
 	color: #ffffff;
@@ -1286,7 +1286,7 @@ height:39px;*/
 	background: #6E3CFF;
 	position: absolute;
 	top: 50%;
-	left:66%;
+	left:68%;
 	margin-top: -20px;
 }
 .search .fl .sea_inp::after {
